@@ -1,0 +1,6 @@
+{
+  "name": "Emoji Guessing Game",
+  "description": "A fun and simple web app where you guess the meaning of emoji puzzles. Features 20 levels, score tracking, and a clean dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
